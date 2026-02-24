@@ -23,9 +23,10 @@ The workflow includes:
 
 ## 🗂️ Repository Structure
 
-- Iris_Classification_ML_Training_Pipeline.ipynb # Training + DVC workflow
-- README.md # Project documentation
-
+```
+├── Iris_Classification_ML_Training_Pipeline.ipynb # Training + DVC workflow
+└── README.md # Project documentation
+```
 
 ---
 
